@@ -1,0 +1,68 @@
+html {
+    font-size: 14px;
+    display: block;
+    text-align: center;
+    
+  }
+  
+  body{
+    font-family: 'Tahoma' ,
+    'Roboto', Arial, sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.4;
+    color: #334;
+    margin: 0;
+     
+  }
+  
+  main{
+    margin: 20px 2px;
+    padding: 10px;
+    
+    
+  }
+  
+  section{
+    background: #eee;
+    border-radius: 5px;
+    margin: 0;
+    padding-top:20px;
+  }
+  
+  #title {
+    font-family: 'Georgia', Tahoma;
+    font-size: 3rem;
+    padding:  10px;
+  
+   
+  }
+  
+  p {
+    padding: 20px 80px;
+  }
+  
+  #img-div {
+      background: white;
+      padding: 30px;
+      margin: 0;
+      
+  }
+  
+  #image {
+    max-width: 100%;
+      height: auto;
+      margin: 10px auto;
+      border-radius: 5px;
+      display: flex;
+      object-fit: cover;
+      display: block;
+      
+      
+  }
+  
+  #timeline {
+    max-width: 550px;
+      margin: 0 auto 50px auto;
+      text-align: left;
+      line-height: 1.9;
+  }
